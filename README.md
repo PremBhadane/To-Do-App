@@ -30,7 +30,7 @@ You can access the project here: https://to-do-app-premb.netlify.app/
 Or run it on your machine: 
 
 ``` 
-git clone 
+git clone https://github.com/PremBhadane/To-Do-App.git
 cd tasks-app
 npm install
 npm start
